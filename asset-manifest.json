@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lawers_table/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/lawers_table/static/js/main.ecf8216c.chunk.js",
+    "main.js.map": "/lawers_table/static/js/main.ecf8216c.chunk.js.map",
+    "runtime-main.js": "/lawers_table/static/js/runtime-main.92657687.js",
+    "runtime-main.js.map": "/lawers_table/static/js/runtime-main.92657687.js.map",
+    "static/js/2.d8a77985.chunk.js": "/lawers_table/static/js/2.d8a77985.chunk.js",
+    "static/js/2.d8a77985.chunk.js.map": "/lawers_table/static/js/2.d8a77985.chunk.js.map",
+    "static/js/3.3cf3760d.chunk.js": "/lawers_table/static/js/3.3cf3760d.chunk.js",
+    "static/js/3.3cf3760d.chunk.js.map": "/lawers_table/static/js/3.3cf3760d.chunk.js.map",
+    "index.html": "/lawers_table/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/lawers_table/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d8a77985.chunk.js.LICENSE.txt": "/lawers_table/static/js/2.d8a77985.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lawers_table/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92657687.js",
+    "static/js/2.d8a77985.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ecf8216c.chunk.js"
+  ]
+}
